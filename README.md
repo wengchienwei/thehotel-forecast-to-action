@@ -125,7 +125,9 @@ Dataset: Not included (proprietary to course)
 ## Author
 
 Chien-Wei Weng
+
 MSc Data Sciences and Business Analytics
+
 CentraleSupélec × ESSEC Business School
 
 Developed with AI assistance from Claude (Anthropic). See Appendix A7 of the presentation for the full AI usage declaration.
